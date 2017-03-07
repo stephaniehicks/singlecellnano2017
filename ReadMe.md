@@ -1,0 +1,4 @@
+This repository contains the slides and case study from the presentation by [Stephanie Hicks](http://www.stephaniehicks.com) at the [Spring 2017 Nanocourse](https://nanosandothercourses.hms.harvard.edu/node/420) titled 'Single-Cell Sequencing: experimental design, analysis, and practical applications' at Harvard Medical School. 
+
+* [Presentation slides](https://speakerdeck.com/stephaniehicks/welcome-to-the-world-of-single-cell-rna-sequencing)
+* [Case study](https://github.com/stephaniehicks/singlecellnano2017/tree/master/CaseStudy) using R/Bioconductor to explore scRNA-Seq data, apply quality control filters, estimate cell-specific normalization factors, and remove a batch effect. 
